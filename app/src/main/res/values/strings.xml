@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RTP2020012-task6</string>
+    <string name="toast">Toast</string>
+    <string name="alert">Alert</string>
+</resources>
